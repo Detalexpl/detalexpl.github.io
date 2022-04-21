@@ -1,0 +1,9 @@
+body{
+    background-color: lightslategray;
+    font-family: "Arial";
+}
+
+#styling{
+    left: 50%;
+    height: 50%;
+}
