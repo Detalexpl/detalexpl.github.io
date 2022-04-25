@@ -1,5 +1,5 @@
 body{
-    background-color: rgb(205, 205, 205);
+    background-image: url(background.png);
     font-family: "Arial";
     display: flex;
     width: 100vw;
