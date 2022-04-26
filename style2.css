@@ -1,9 +1,9 @@
 body{
     background-image: url(GrafikMK.jpg);
+    background-size: cover;
 }
 
 .contenerr{
-    background-image: url(GrafikMK.jpg);
     font-family: Arial;
     font-size: 28px;
     height: 50%;
