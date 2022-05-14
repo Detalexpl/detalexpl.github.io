@@ -35,3 +35,6 @@ h1 {
     color: white;
     text-shadow: 0 0 30px black;
 }
+nav:hover{
+    color: rgb(68, 67, 67);
+}
