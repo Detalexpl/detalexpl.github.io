@@ -40,6 +40,8 @@ nav a:hover{
     font-size: 300%;
 }
 .foot{
+    display: flex;
     text-align: center;
-
+    background-color:whitesmoke;
+    align-content:end;
 }
