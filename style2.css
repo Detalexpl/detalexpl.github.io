@@ -43,5 +43,6 @@ nav a:hover{
     display: flex;
     text-align: center;
     background-color:whitesmoke;
-    align-content:end;
+    align-content: flex-end;
+    justify-content: center;
 }
