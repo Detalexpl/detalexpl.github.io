@@ -1,5 +1,6 @@
 body{
-    background-color:silver;
+    background-image: url(GrafikMK.jpg);
+    background-size: cover
 }
 .zrudla{
     font-family: Arial;
